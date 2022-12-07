@@ -1,0 +1,49 @@
+/* all styles for class  */
+body{
+    text-decoration-color: aquamarine;
+}
+.customBG1{
+    background-image: url(../img/img2.jpg);
+}
+.customBG2{
+    background-color: lightgrey
+}
+.customdiv { 
+padding: 10px;
+max-width: 90%; }
+.customdiv2 { max-height: 850px; }
+.customdiv3 { max-height: 950px;
+    padding: 10px;
+    max-width: 90%; 
+    ;}
+.customdiv4 { background: #4E9CAF;
+    color: white;
+    text-align: center;
+    ;}
+.button {
+    display: block;
+    width: 115px;
+    height: 25px;
+    background: #4E9CAF;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    line-height: 25px;
+}
+ul {
+    text-align: center;
+    list-style-position: inside;
+
+}
+ol {
+    text-align: center;
+    list-style-position: inside;
+
+}
+body{
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration-color: white;
+
+}
